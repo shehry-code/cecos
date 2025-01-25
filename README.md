@@ -1,4 +1,4 @@
 # cecos
-this my 1st time creating repo in github
+this my 1st time of creating repo in github
 <br>
 written by shehriyar
